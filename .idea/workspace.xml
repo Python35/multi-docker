@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="59ff2a04-3267-4517-ad6b-6650f9ba1354" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/client/nginx/default.conf" beforeDir="false" afterPath="$PROJECT_DIR$/client/nginx/default.conf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -45,10 +45,12 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="conf" value="41" />
+          <entry key="yml" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
+          <entry key="YAML" value="4" />
           <entry key="tsconfig" value="41" />
         </counts>
       </usages-collector>
@@ -97,7 +99,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/client/src/App.test.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="75">
@@ -114,11 +116,11 @@
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/docker-compose.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="28" column="8" selection-start-line="28" selection-start-column="2" selection-end-line="28" selection-end-column="8" />
+            <state relative-caret-position="390">
+              <caret line="26" column="18" selection-start-line="26" selection-start-column="8" selection-end-line="26" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -126,8 +128,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.travis.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="525">
-              <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
+            <state relative-caret-position="240">
+              <caret line="16" column="26" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -150,6 +152,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/client/nginx/default.conf" />
+        <option value="$PROJECT_DIR$/.travis.yml" />
       </list>
     </option>
   </component>
@@ -183,33 +186,6 @@
             <path>
               <item name="multi-docker" type="b2602c69:ProjectViewProjectNode" />
               <item name="multi-docker" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="multi-docker" type="b2602c69:ProjectViewProjectNode" />
-              <item name="multi-docker" type="462c0819:PsiDirectoryNode" />
-              <item name="client" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="multi-docker" type="b2602c69:ProjectViewProjectNode" />
-              <item name="multi-docker" type="462c0819:PsiDirectoryNode" />
-              <item name="client" type="462c0819:PsiDirectoryNode" />
-              <item name="nginx" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="multi-docker" type="b2602c69:ProjectViewProjectNode" />
-              <item name="multi-docker" type="462c0819:PsiDirectoryNode" />
-              <item name="client" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="multi-docker" type="b2602c69:ProjectViewProjectNode" />
-              <item name="multi-docker" type="462c0819:PsiDirectoryNode" />
-              <item name="nginx" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="multi-docker" type="b2602c69:ProjectViewProjectNode" />
-              <item name="multi-docker" type="462c0819:PsiDirectoryNode" />
-              <item name="server" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -247,12 +223,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1542263597175</updated>
-      <workItem from="1542263598530" duration="964000" />
+      <workItem from="1542263598530" duration="1781000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="964000" />
+    <option name="totallyTimeSpent" value="1781000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-233" y="-1057" width="960" height="1057" extended-state="0" />
@@ -302,27 +278,6 @@
     <entry file="file://$PROJECT_DIR$/worker/Dockerfile">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Dockerrun.aws.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="29" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docker-compose.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" column="8" selection-start-line="28" selection-start-column="2" selection-end-line="28" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.travis.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/client/Dockerfile.dev">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
@@ -361,6 +316,27 @@
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dockerrun.aws.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="29" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.travis.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="26" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docker-compose.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="18" selection-start-line="26" selection-start-column="8" selection-end-line="26" selection-end-column="18" />
         </state>
       </provider>
     </entry>
